@@ -1,0 +1,28 @@
+Commandb'ls'executed by 127.0.0.1
+Commandb'cat jumpbox2.conf'executed by 127.0.0.1
+127.0.0.1,us,
+Commandb'ld'executed by 127.0.0.1
+Commandb'ld\x7fs'executed by 127.0.0.1
+Commandb'ls'executed by 127.0.0.1
+Commandb'cat commands.conf'executed by 127.0.0.1
+Commandb'\x1b[Ccat Honeypy.conf'executed by 127.0.0.1
+Commandb'cat Honeypy.conf'executed by 127.0.0.1
+Commandb'cat\x7f\x7f\x7f\x7f\x7f\x7f'executed by 127.0.0.1
+Commandb'\x7f\x7f'executed by 127.0.0.1
+Commandb'cat Honeypy.conf'executed by 127.0.0.1
+127.0.0.1,us,
+Commandb'ls'executed by 127.0.0.1
+Commandb'ls\rcat commands.conf'executed by 127.0.0.1
+Commandb'ls\rcat commands.conf\rcat commands.conf'executed by 127.0.0.1
+127.0.0.1,us,
+Commandb'ls'executed by 127.0.0.1
+Commandb'ls\rcat cmd.conf'executed by 127.0.0.1
+Commandb'ls\rcat cmd.conf\rcat cmd'executed by 127.0.0.1
+Commandb'ls\rcat cmd.conf\rcat cmd\rcat cmd.conf'executed by 127.0.0.1
+Commandb'ls\rcat cmd.conf\rcat cmd\rcat cmd.conf\rls'executed by 127.0.0.1
+127.0.0.1,us,
+Commandb'ls'executed by 127.0.0.1
+Commandb'cat cmd.conf'executed by 127.0.0.1
+127.0.0.1,us,
+Commandb'ls'executed by 127.0.0.1
+Commandb'cat cmd.conf'executed by 127.0.0.1
